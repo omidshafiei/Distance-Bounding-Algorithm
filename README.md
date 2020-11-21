@@ -7,8 +7,8 @@ Upon the required application for RFID networks, distance bounding protocols hav
 * You can download original images and result files from this [Link](https://github.com/omidshafiei/Distance-Bounding-Protocol/tree/main/matlab%20code).
 ## Try to do it
 Please contact me or submit "issues" in this repository, and I can help you in person
-## Protocols and attacks scheme
+## Protocols and Attacks Scheme
 ![img1](https://user-images.githubusercontent.com/74077380/99883313-f6c91d00-2c3b-11eb-88e0-77f2fe222d9b.png)
-## simulation result
+## simulation Result
 As the number of itteration has been set on a high value (10^8 and 10^9), the theoritical and simulation results are almost similar.
 ![img2](https://user-images.githubusercontent.com/74077380/99883653-1c572600-2c3e-11eb-81aa-140f6388a42e.png)
